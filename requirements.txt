@@ -1,0 +1,3 @@
+this is a chat application
+Emoji added
+Responsiveness added
