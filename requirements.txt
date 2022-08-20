@@ -3,3 +3,7 @@ Emoji added
 Responsiveness added
 dark mode
 video option
+
+payment option
+send money
+recieve money 
