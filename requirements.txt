@@ -1,3 +1,5 @@
 this is a chat application
 Emoji added
 Responsiveness added
+dark mode
+video option
